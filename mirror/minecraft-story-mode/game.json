@@ -1,0 +1,50 @@
+{
+  "slug": "minecraft-story-mode",
+  "title": "Minecraft: Story Mode",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/mcsm/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/mcsm/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/mcsm.webp",
+  "baseUrl": "https://truffled.lol/games/mcsm/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/mcsm/index.html",
+  "status": "done",
+  "sizeBytes": 260042862,
+  "assetCount": 26,
+  "known404": [],
+  "failed": [
+    {
+      "url": "(crawl)",
+      "error": "crawl stalled; abandoned hung downloads",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T14:14:50.067Z",
+  "verifiedAt": "2026-11-17T14:15:56.548Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Minecraft: Story Mode",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1920,
+      "height": 1080
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9268,
+    "rendered": true
+  }
+}
