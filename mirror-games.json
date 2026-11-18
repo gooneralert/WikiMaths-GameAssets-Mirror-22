@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "minecraft-story-mode",
+    "title": "Minecraft: Story Mode",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 260042862,
+    "thumbnail": ""
+  }
+]
